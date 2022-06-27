@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Drum Pad</string>
+    <string name="beat">Beat</string>
+    <string name="synth">Synth</string>
+    <string name="strings">Strings</string>
+    <string name="fx">FX</string>
+    <string name="vocals">Vocals</string>
+    <string name="drum_pad">DRUM PAD</string>
+    <string name="logo_icon">logo icon</string>
+</resources>
